@@ -5,3 +5,5 @@ The game allows multiple students to track their progression and stats on the sa
 
 Preview
 ![g1](https://user-images.githubusercontent.com/25876771/73249045-e7bd3e00-41d5-11ea-94f3-09f003506a40.PNG)
+![g3](https://user-images.githubusercontent.com/25876771/73249178-34087e00-41d6-11ea-81c2-3cab0421d31d.PNG)
+![g2](https://user-images.githubusercontent.com/25876771/73249179-34087e00-41d6-11ea-9724-9a6dad9f050b.PNG)
