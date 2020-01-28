@@ -4,3 +4,4 @@ The core concept of this game lies in the presentation of laboratory safety requ
 The game allows multiple students to track their progression and stats on the same system by allowing them to create a user at the beginning. When creating their user, the player will be able to set a specific name or username for his user.
 
 Preview
+![g1](https://user-images.githubusercontent.com/25876771/73249045-e7bd3e00-41d5-11ea-94f3-09f003506a40.PNG)
